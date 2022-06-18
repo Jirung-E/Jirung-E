@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-## Blog
-[Hello Visitor!](https://Jirung-E.github.io/)
+## [Blog](https://Jirung-E.github.io/)
 <!--
 **Jirung-E/Jirung-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
